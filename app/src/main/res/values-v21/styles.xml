@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AccentButton">
+        <item name="android:colorButtonNormal">@color/colorAccent</item>
+
+    </style>
+
+
+</resources>
